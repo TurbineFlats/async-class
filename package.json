@@ -1,0 +1,21 @@
+{
+  "name": "async-class",
+  "version": "1.0.0",
+  "description": "Code for a Friday tech talk about async in Javascript",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TurbineFlats/async-class.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TurbineFlats/async-class/issues"
+  },
+  "homepage": "https://github.com/TurbineFlats/async-class#readme",
+  "devDependencies": {}
+}
